@@ -1,6 +1,6 @@
 package com.example.gachimaster.data
 
-class SmallTasck {
+class SmallTask {
     private var name: String = ""
     private var ready: Boolean = false
 
